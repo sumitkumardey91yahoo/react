@@ -2,7 +2,6 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": 'https://sumitkumardey91yahoo.github.io/react/',
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -30,5 +29,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://sumitkumardey91yahoo.github.io/react/"
 }
